@@ -3936,7 +3936,7 @@ select:focus {
     margin-bottom: 0px;
 }
 .single-testimonial-item .company-logo img{
-    width: auto;
+    width: 100px;
 }
 .single-testimonial-item .text{
     margin-bottom: 25px;
